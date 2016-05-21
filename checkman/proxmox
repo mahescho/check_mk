@@ -1,0 +1,8 @@
+title: Monitor status of Proxmox Quemu VM's
+agents: linux
+catalog: os/
+distribution: https://mathias-kettner.de/check_mk_exchange.php
+author: Matthias Henze <matthias@mhcsoftware.de>
+license: GPL
+description:
+ This check monitors the Status of Proxmox Quemu VM's
